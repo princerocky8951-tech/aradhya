@@ -7,7 +7,7 @@ const About: React.FC = () => {
       
       <div className="flex flex-col md:flex-row gap-12 items-start">
         <img 
-          src="../public/about.png" 
+          src="https://raw.githubusercontent.com/princerocky8951-tech/aradhya/refs/heads/main/public/about.png" 
           alt="Portrait" 
           className="w-full md:w-1/3 object-cover shadow-[0_0_30px_rgba(127,29,29,0.2)] grayscale hover:grayscale-0 transition-all duration-500"
         />
