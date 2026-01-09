@@ -7,7 +7,7 @@ export const SACRED_GALLERY: MediaItem[] = [
     id: 'g1',
     title: 'The Obsidian Throne',
     description: 'A seat reserved for the absolute authority of Goddess Aradhya.',
-    url: 'https://raw.githubusercontent.com/princerocky8951-tech/aradhya/refs/heads/main/nipal-tourcher.png',
+    url: 'https://raw.githubusercontent.com/princerocky8951-tech/aradhya/refs/heads/main/public/nipal-tourcher.png',
     type: 'image',
     uploadedBy: 'admin',
     createdAt: new Date('2024-03-10').toISOString()
@@ -70,7 +70,7 @@ export const SACRED_GALLERY: MediaItem[] = [
     id: 'g8',
     title: 'Crimson Veil',
     description: 'The world as seen through the lens of devotion.',
-    url: 'https://raw.githubusercontent.com/princerocky8951-tech/aradhya/refs/heads/main/public/ball.png',
+    url: 'https://raw.githubusercontent.com/princerocky8951-tech/aradhya/refs/heads/main/public/4.png',
     type: 'image',
     uploadedBy: 'admin',
     createdAt: new Date('2024-03-28').toISOString()
