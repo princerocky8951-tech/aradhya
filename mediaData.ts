@@ -70,7 +70,7 @@ export const SACRED_GALLERY: MediaItem[] = [
     id: 'g8',
     title: 'Crimson Veil',
     description: 'The world as seen through the lens of devotion.',
-    url: 'https://raw.githubusercontent.com/princerocky8951-tech/aradhya/refs/heads/main/public/4.png',
+    url: 'https://raw.githubusercontent.com/princerocky8951-tech/aradhya/refs/heads/main/public/prev/4.png',
     type: 'image',
     uploadedBy: 'admin',
     createdAt: new Date('2024-03-28').toISOString()
@@ -79,7 +79,7 @@ export const SACRED_GALLERY: MediaItem[] = [
     id: 'g9',
     title: 'Absolute Command',
     description: 'My word is the beginning and the end of your reality.',
-    url: 'https://raw.githubusercontent.com/princerocky8951-tech/aradhya/refs/heads/main/public/prev/prev/2.png',
+    url: 'https://raw.githubusercontent.com/princerocky8951-tech/aradhya/refs/heads/main/public/prev/2.png',
     type: 'image',
     uploadedBy: 'admin',
     createdAt: new Date('2024-04-01').toISOString()
